@@ -1,3 +1,4 @@
+import React from "react";
 import Display from "./components/Display";
 import ButtonsContainer from "./components/ButtonsContainer";
 import styles from "./App.module.css";

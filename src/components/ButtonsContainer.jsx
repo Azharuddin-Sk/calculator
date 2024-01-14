@@ -1,3 +1,4 @@
+import React from "react";
 import styles from "./ButtonsContainer.module.css";
 
 const ButtonsContainer = ({ onButtonClick }) => {
